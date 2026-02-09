@@ -1,24 +1,62 @@
-# Welcome to my GitHub profile!
+# 👋 Hi, I’m Arif Ahmed Adito (@Adiuk24)
 
-## 📊 GitHub Statistics
+Founder-minded technologist building **secure, scalable platforms** for real-world use.  
+I focus on **OTT systems, content protection, and production-grade web platforms**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adiuk24&show_icons=true&theme=radical)
+I care less about demos — and more about **systems that actually run in production**.
 
-## 🏆 Contributions & Achievements
+---
 
-- **Open Source Contributions:** 20+ repositories
-- **Personal Projects:** 10+ projects showcasing various technologies
-- **Collaborated with:** [Project Name](https://github.com/username/project) on enhancing features and fixing bugs.
+## 🚀 What I Build
+- Enterprise-grade **platforms & backend systems**
+- **Anti-piracy & content protection** for live streaming
+- Scalable **APIs & microservices**
+- Deployment-ready infrastructure (cloud & containers)
+- Clean, maintainable systems teams can trust
 
-## 📂 My Projects
+---
 
-### Project 1: [Project Name](https://github.com/username/project)
-- **Description:** Brief description of project 1.
+## 🧠 Core Project
 
-### Project 2: [Project Name](https://github.com/username/project)
-- **Description:** Brief description of project 2.
+### 🎬 Tapmad Anti-Piracy Platform
+A **production-ready OTT content protection system** designed for live environments.
 
-### Project 3: [Project Name](https://github.com/username/project)
-- **Description:** Brief description of project 3.
+**Highlights**
+- Real-time detection & enforcement
+- Multi-platform monitoring
+- Security-first architecture
+- Fully containerized & cloud-deployed
+- Built for scale, reliability, and teams
 
-Feel free to reach out or check out my projects!
+**Stack**
+`Python · FastAPI · PostgreSQL · Docker · AWS`
+
+🔗 https://github.com/Adiuk24/tapmad-anti-piracy
+
+---
+
+## 🛠 Tech I Actually Use
+- **Backend:** Python, FastAPI  
+- **Frontend:** JavaScript / TypeScript  
+- **Databases:** PostgreSQL, SQLAlchemy, Alembic  
+- **DevOps:** Docker, Docker Compose, AWS  
+- **Workflow:** GitHub Actions, Makefiles, Pre-commit  
+
+---
+
+## 🧩 How I Think
+- Product-first, not tool-first  
+- Systems > scripts  
+- Documentation is part of the product  
+- Security and scale are not optional  
+- Code should help teams move faster, not slower  
+
+---
+
+## 📫 Connect
+- GitHub → https://github.com/Adiuk24  
+- Web → https://github.com/Adiuk24/personal-website  
+
+---
+
+⚡ *I build technology that survives real traffic, real users, and real pressure.*
