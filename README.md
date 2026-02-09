@@ -1,33 +1,24 @@
-# AI Platforms and Projects Showcase
+# Welcome to my GitHub profile!
 
-## Introduction
-This README showcases various AI platforms and projects developed under the Adiuk24 organization.
+## 📊 GitHub Statistics
 
-## AI Platforms
-1. **TensorFlow**
-   - Description: An open-source platform for machine learning.
-   - Link: [TensorFlow](https://www.tensorflow.org)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adiuk24&show_icons=true&theme=radical)
 
-2. **PyTorch**
-   - Description: An open-source machine learning library based on the Torch library.
-   - Link: [PyTorch](https://pytorch.org)
+## 🏆 Contributions & Achievements
 
-3. **Keras**
-   - Description: A high-level neural networks API written in Python.
-   - Link: [Keras](https://keras.io)
+- **Open Source Contributions:** 20+ repositories
+- **Personal Projects:** 10+ projects showcasing various technologies
+- **Collaborated with:** [Project Name](https://github.com/username/project) on enhancing features and fixing bugs.
 
-## Projects
-- **Chatbot**
-  - Description: A conversational agent built using TensorFlow.
-  - Link: [Chatbot Project](https://github.com/Adiuk24/chatbot)
+## 📂 My Projects
 
-- **Image Classifier**
-  - Description: An image classification project using PyTorch.
-  - Link: [Image Classifier Project](https://github.com/Adiuk24/image-classifier)
+### Project 1: [Project Name](https://github.com/username/project)
+- **Description:** Brief description of project 1.
 
-- **Generative Adversarial Network**
-  - Description: A project that explores GANs using Keras.
-  - Link: [GAN Project](https://github.com/Adiuk24/gan) 
+### Project 2: [Project Name](https://github.com/username/project)
+- **Description:** Brief description of project 2.
 
-## Conclusion
-This profile is dedicated to showcasing the power of AI and the various platforms that are at the forefront of artificial intelligence research and application.
+### Project 3: [Project Name](https://github.com/username/project)
+- **Description:** Brief description of project 3.
+
+Feel free to reach out or check out my projects!
