@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Adiuk24
+# Hi there! 👋 I'm Adi 
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer focused on building production-ready solutions that solve real-world problems in content protection, data analytics, and web technologies.
 
