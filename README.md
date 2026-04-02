@@ -1,62 +1,57 @@
-# 👋 Hi, I’m Arif Ahmed Adito (@Adiuk24)
+# 👋 Hi, I'm Arif Ahmed Adito (@Adiuk24)
 
-Founder-minded technologist building **secure, scalable platforms** for real-world use.  
-I focus on **OTT systems, content protection, and production-grade web platforms**.
+Independent AI Researcher · Founder, Adioris Tech · Head of Business @ Tapmad · EMBA, North South University
 
-I care less about demos — and more about **systems that actually run in production**.
+---
+
+## 🧠 Research
+
+### Eyla: Toward an Identity-Anchored LLM Architecture with Integrated Biological Priors
+
+> *Why do LLMs forget who they are the moment someone tries to manipulate them?*
+
+I spent a year researching this question — without a lab, without a co-author, and without a programming background.
+
+The result: a published paper on arXiv proposing a novel architecture for identity-consistent AI, introducing the **Identity Consistency Score (ICS)** benchmark, and honestly documenting what happens when a non-programmer attempts to build cutting-edge AI using only AI tools.
+
+📄 **arXiv:2604.00009** → [arxiv.org/abs/2604.00009](https://arxiv.org/abs/2604.00009)  
+🤗 **Hugging Face** → [huggingface.co/Adiuk](https://huggingface.co/Adiuk)
+
+**Key contributions:**
+- Identity-anchored fine-tuning via "Soul Pass" training
+- HiPPO-initialized State-Space Models for biologically-inspired memory
+- Identity Consistency Score (ICS) — a new benchmark measuring LLM resistance to manipulation
+- First-person failure analysis: 5 systematic failure modes of AI-assisted development
 
 ---
 
 ## 🚀 What I Build
-- Enterprise-grade **platforms & backend systems**
-- **Anti-piracy & content protection** for live streaming
-- Scalable **APIs & microservices**
-- Deployment-ready infrastructure (cloud & containers)
-- Clean, maintainable systems teams can trust
 
----
+### 🤖 Eyla AIOS
+A local-first agentic AI operating system for Bangladeshi students — runs on consumer hardware (8–16GB RAM), no cloud dependency, no subscription cost. Sovereign AI for underserved markets.
 
-## 🧠 Core Project
+→ [Adiuk24/eyla-aios](https://github.com/Adiuk24/eyla-aios)
 
 ### 🎬 Tapmad Anti-Piracy Platform
-A **production-ready OTT content protection system** designed for live environments.
+Production-ready OTT content protection system for live streaming environments.
 
-**Highlights**
-- Real-time detection & enforcement
-- Multi-platform monitoring
-- Security-first architecture
-- Fully containerized & cloud-deployed
-- Built for scale, reliability, and teams
-
-**Stack**
-`Python · FastAPI · PostgreSQL · Docker · AWS`
-
-🔗 https://github.com/Adiuk24/tapmad-anti-piracy
+→ [Adiuk24/tapmad-anti-piracy](https://github.com/Adiuk24/tapmad-anti-piracy)
 
 ---
 
-## 🛠 Tech I Actually Use
-- **Backend:** Python, FastAPI  
-- **Frontend:** JavaScript / TypeScript  
-- **Databases:** PostgreSQL, SQLAlchemy, Alembic  
-- **DevOps:** Docker, Docker Compose, AWS  
-- **Workflow:** GitHub Actions, Makefiles, Pre-commit  
+## 🛠 Stack & Tools
 
----
-
-## 🧩 How I Think
-- Product-first, not tool-first  
-- Systems > scripts  
-- Documentation is part of the product  
-- Security and scale are not optional  
-- Code should help teams move faster, not slower  
+`Python` · `TypeScript` · `Ollama` · `Qwen3-8B` · `SQLite` · `Tauri v2` · `FastAPI` · `Docker` · `AWS`
 
 ---
 
 ## 📫 Connect
-- GitHub → https://github.com/Adiuk24  
-- Web → https://github.com/Adiuk24/personal-website  
+
+- 🌐 [arifadito.com](https://arifadito.com)
+- 🤗 [huggingface.co/Adiuk](https://huggingface.co/Adiuk)
+- 💼 [LinkedIn](https://linkedin.com/in/arifadito)
+- 📄 [arXiv Paper](https://arxiv.org/abs/2604.00009)
 
 ---
 
-⚡ *I build technology that survives real traffic, real users, and real pressure.*
+*Building AI that knows who it is — from Dhaka, Bangladesh 🇧🇩*
