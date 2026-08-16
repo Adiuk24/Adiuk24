@@ -6,6 +6,14 @@ Independent AI Researcher · Founder, Adioris Tech · Head of Business @ Tapmad 
 
 ## 🧠 Research
 
+### Training a Language Model End-to-End in Rust: An Experience Report
+
+> *The dominant failure mode outside the PyTorch/CUDA ecosystem is not a crash — it's a run that learns nothing while the loss curve falls smoothly.*
+
+A from-scratch Rust pretraining project hit **eight silent defects across two ML frameworks** (Candle and Burn) — every one passed ordinary loss-curve inspection. The companion artifact, the **Gradient-Flow Arbiter**, is a framework-agnostic verification harness that catches them in seconds, before compute is spent: dead gradients, wrong fused backwards, no-effect positional encodings, and pathological data ordering. Every test ships positive *and* negative controls.
+
+🔧 **Code** → [Adiuk24/gradient-flow-arbiter](https://github.com/Adiuk24/gradient-flow-arbiter) (MIT)
+
 ### Eyla: Toward an Identity-Anchored LLM Architecture with Integrated Biological Priors
 
 > *Why do LLMs forget who they are the moment someone tries to manipulate them?*
@@ -28,9 +36,9 @@ The result: a published paper on arXiv proposing a novel architecture for identi
 ## 🚀 What I Build
 
 ### 🤖 Eyla AIOS
-A local-first agentic AI operating system for Bangladeshi students — runs on consumer hardware (8–16GB RAM), no cloud dependency, no subscription cost. Sovereign AI for underserved markets.
+A local-first agentic AI operating system for Bangladeshi students — runs on consumer hardware (8–16GB RAM), no cloud dependency, no subscription cost. Sovereign AI for underserved markets. Fine-tuned tool-calling models are public on Hugging Face.
 
-→ [Adiuk24/eyla-aios](https://github.com/Adiuk24/eyla-aios)
+→ [huggingface.co/Adiuk](https://huggingface.co/Adiuk)
 
 ### 🎬 Tapmad Anti-Piracy Platform
 Production-ready OTT content protection system for live streaming environments.
@@ -41,7 +49,7 @@ Production-ready OTT content protection system for live streaming environments.
 
 ## 🛠 Stack & Tools
 
-`Python` · `TypeScript` · `Ollama` · `Qwen3-8B` · `SQLite` · `Tauri v2` · `FastAPI` · `Docker` · `AWS`
+`Python` · `Rust` · `TypeScript` · `Ollama` · `Qwen3-8B` · `SQLite` · `Tauri v2` · `FastAPI` · `Docker` · `AWS`
 
 ---
 
@@ -49,7 +57,7 @@ Production-ready OTT content protection system for live streaming environments.
 
 - 🌐 [arifadito.com](https://arifadito.com)
 - 🤗 [huggingface.co/Adiuk](https://huggingface.co/Adiuk)
-- 💼 [LinkedIn](https://linkedin.com/in/arifadito)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arif-adito-025088b4)
 - 📄 [arXiv Paper](https://arxiv.org/abs/2604.00009)
 
 ---
