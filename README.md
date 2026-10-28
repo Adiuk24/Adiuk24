@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Arif Ahmed Adito (@Adiuk24)
 
-Independent AI Researcher · Founder, Adioris Tech · Head of Business @ Tapmad · EMBA, North South University
+Independent AI Researcher · Founder, [Adioris](https://adioris.com) · Head of Business @ Tapmad · EMBA, North South University
+
+[adioris.com](https://adioris.com) · [Research](https://arifadito.com/research) · [Adioris on LinkedIn](https://www.linkedin.com/company/adioris) · [Hugging Face](https://huggingface.co/Adiuk)
 
 ---
 
